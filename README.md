@@ -1,1 +1,1 @@
-# midterm-exam-soluton
+# midterm-exam-solution.
